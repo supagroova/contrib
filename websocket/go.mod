@@ -1,4 +1,4 @@
-module github.com/supagroova/contrib/websocket
+module github.com/gofiber/contrib/websocket
 
 go 1.18
 
@@ -25,4 +25,4 @@ require (
     golang.org/x/sys v0.9.0 // indirect
 )
 
-replace github.com/gofiber/contrib/websocket => github.com/supagroova/contrib/websocket
+replace github.com/gofiber/contrib/websocket v2.1.6 => github.com/supagroova/contrib/websocket v1.0.0
