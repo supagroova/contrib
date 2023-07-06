@@ -1,4 +1,4 @@
-module github.com/gofiber/contrib/websocket
+module github.com/supagroova/contrib/websocket
 
 go 1.18
 
